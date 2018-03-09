@@ -1,0 +1,130 @@
+form
+{
+	background-color:gray;
+	padding: 10px;
+	border: 3px solid red;
+	border-radius: 10px;
+	width: 70%;
+	margin: 20px auto;
+
+}
+h1
+{
+	color: white;
+	text-align: center;
+}
+label
+{
+	display: inline-block;
+	width: 100px
+}
+input
+{
+	display: inline-block;
+	width: 200px;
+	border-radius: 5px
+}
+textarea
+{
+	display: block;
+	width: 400px;
+	height: 150px;
+	margin:auto;
+}
+.btn2
+{
+	display: block;
+	width: 100px;
+	color: red;
+	margin:auto;
+}
+nav
+{
+	background-color: gray;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	height: 50px;
+}
+.fix
+{
+	clear: both;
+}
+ul
+{
+	list-style-type: none;
+}
+a
+{
+	color: white;
+	text-decoration: none;
+}
+a:hover
+{
+	color: purple;
+}
+.float
+{
+	float: left;
+	margin-right: 20px;
+}
+
+.courses
+{
+	background-color: burlywood;
+	display: none;
+}
+
+.hover:hover .courses
+{
+	display: block;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

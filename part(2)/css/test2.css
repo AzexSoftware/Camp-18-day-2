@@ -1,0 +1,59 @@
+form {
+	background-color: gray;
+	border: 3px solid red;
+	margin: 10px;
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-bottom: 10px;
+	border-radius: 10px;
+}
+
+h3{
+	color: white;
+	text-align: center;
+}
+
+label
+{
+	display: inline-block;
+	width: 100px;
+}
+
+.checkbox{
+	width: 150px;
+	margin: auto
+}
+.rem {
+	width: 123px;
+}
+
+.btn {
+	display: block;
+	width: 100px;
+	color: red;
+	margin: auto;
+	margin-top: 10px
+}
+
+.parent {
+	border: 2px solid black;
+	border-radius: 10px;
+	background-image: url('back.jpg');	
+	padding: 20px;
+}
+.card {
+	border: 1px solid black;
+	width: 30%;
+	float: left;
+	margin-right: 4%;
+}
+.last-card {
+	margin-right: 0;
+}
+.fix {
+	clear: both;
+}
+img {
+	width: 60%;
+	height: 40%;
+}
